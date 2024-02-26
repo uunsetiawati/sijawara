@@ -1,0 +1,77 @@
+export default {
+	menu: {
+		home: 'Beranda',
+		news: 'Berita',
+		schedule: 'Jadwal',
+		contact: 'Kontak',
+		profile: 'Profil',
+		team: 'Tim',
+		guide: 'Panduan',
+		login: 'Mulai Belajar',
+	},
+	announcement: 'PENGUMUMAN',
+	back: 'KEMBALI',
+	home: {
+		welcome: 'Selamat Datang di {name}',
+		description: 'SIJAWARA adalah suatu Sistem Informasi Pembelajaran dan Peningkatan Wawasan Perkoperasian yang digunakan untuk menciptakan lingkungan belajar yang fleksibel. SIJAWARA sangat Flesksibel dengan perkembangan Teknologi',
+		news: 'BERITA',
+		our_course: 'KURSUS KAMI',
+		search_course: 'Cari Kursus',
+		no_course: 'Tidak ada Kursus tersedia.',
+		independent_training: 'Pelatihan Mandiri',
+		webinar: 'Webinar',
+		search_webinar: 'Cari Webinar',
+		no_webinar: 'Tidak ada Webinar yang tersedia'
+	},
+	news: {
+		news: 'BERITA',
+		all: 'Semua',
+		latest_news: 'BERITA TERBARU',
+		view_all: 'LIHAT SEMUA',
+		date: 'Tanggal',
+		category: 'Kategori'
+	},
+	schedule: {
+		schedule: 'Webinar',
+		all: 'Semua',
+		date: 'Tanggal Sesi',
+		time: 'Waktu Sesi',
+		type: 'Tipe',
+		category: 'Kategori',
+		not_implemented: 'Belum Terlaksana',
+		already_done: 'Sudah Terlaksana',
+		ongoing: 'Sedang Berlangsung',
+		description: 'Deskripsi',
+		start_date: 'Tanggal Mulai',
+		end_date: 'Tanggal Selesai',
+		start_time: 'Waktu Mulai',
+		end_time: 'Waktu Selesai',
+		quota: 'Kuota',
+		place: 'Tempat',
+		join: 'GABUNG',
+		join_view: 'Silakan Bergabung untuk melihat',
+		wait_admin: 'Menuggu persetujuan administrator'
+	},
+	contact: {
+		contact: 'HUBUNGI KAMI',
+		office_address: 'Alamat Kantor',
+		email_address: 'Alamat Email',
+		no_telepon: 'Nomor Telepon',
+	},
+	about: {
+		about: 'TENTANG KAMI',
+		head_of_departement: 'KEPALA DINAS KOPERASI DAN UKM PROVINSI JAWA TIMUR',
+		departement_description: 'Assalamualaikum Warahmatullah Wabarakatuh, salam sejahtera untuk kita semuanya.<br><br>Provinsi jawa timur merupakan provinsi yang terbesar jumlah koperasi dan umkmnya, dari sisi koperasi di Jawa Timur ada 33.365 unit koperasi dengan jumlah pengelolanya 60.000 pengelola koperasi dan 7 juta anggota koperasi. Disisi umkmnya data terakhir tahun 2018 jumlah umkm di jawa timur sebanyak 12,1 juta. Jumlah yang sangat besar ini tentunya membutuhkan suatu media di dalam rangka pola pembelajaran, di dalam rangka pola peningkatan sdmnya, dalam hal ini UPT Dinas Koperasi Usaha Kecil dan Menengah Provinsi Jawa Timur mengimplementasikan apa yang menjadi program Nawa Bhakti Satya Ibu Gubernur dan Bapak Wakil Gubernur Jawa Timur melalui Jatim Bekerja Jatim ke 2 dan Jatim Berdaya Jatim ke 7 mencoba membuat inovasi baru yaitu e-learning. ',
+		head_of_upt: 'KEPALA UPT KOPERASI DAN UKM PROVINSI JAWA TIMUR',
+		upt_description: 'Selamat datang di Program Pembelajaran Elektronik Sijawara. Sebuah sistem layanan pembelajaran secara daring kepada masyarakat luas tentang perkoperasian dan bisnis koperasi yang berkeadilan. Sijawara ini bertujuan memberikan alternatif kemudahan cara belajar yang murah, cepat dan mudah tanpa dibatasi oleh ruang dan waktu sehingga mampu menjangkau para pelaku koperasi maupun masyarakat luas yang masih awam terhadap koperasi. tujuan akhir dari Sijawara ini adalah sebagai sarana membangun semangat ekonomi berkoperasi di Indonesia yang mampu tumbuh dan berkembang bersama dan bermartabat dalam wadah NKRI yang berdaulat. Koperasi Jaya, Masyarakat Sejahtera.',
+		vision: 'VISI KAMI',
+		vision_description: 'Prima dalam layanan peningkatan kualitas SDM Koperasi, Usaha Mikro, Kecil dan Menengah',
+		mission: 'MISI KAMI',
+		mission_description: '<li>Meningkatkan kompetensi dan kinerja SDM KUMKM.</li> <li>Meningkatkan dan mengembangkan berbagai ragam model pendidikan dan pelatihan.</li> <li>Melakukan bimbingan dan konsultasi sesuai kebutuhan KUMKM.</li> <li>Meningkatkan kompetensi seluruh karyawan untuk efektifitas dan efisiendi proses layanan.</li>',
+        structure: 'STRUKTUR ORGANISASI',
+        structure_description: 'UPT PELATIHAN KOPERASI DAN UKM PROVINSI JAWA TIMUR'
+	},
+	team: {
+		team: 'TIM KAMI',
+	}
+}
